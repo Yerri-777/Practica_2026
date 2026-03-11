@@ -1,5 +1,3 @@
-"# Practica_2026" 
-"# Practica_2026" 
-"# Practica_2026" 
-"# Practica_2026" 
-"# Practica_2026" 
+mysql-connector-j-9.5.0/
+.idea/
+*.iml
